@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jAllanOli/fylo-data-storage-component-master]
-- Live Site URL: [https://jallanoli.github.io/fylo-data-storage-component-master/]
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/fylodatastoragecomponent-using-flexbox-after-and-position-absolute-Lg3N39Fol1)
+- Live Site URL: [WebPage](https://jallanoli.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
